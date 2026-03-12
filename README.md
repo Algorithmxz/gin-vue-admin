@@ -387,3 +387,6 @@ fmt.Println(decodeBytes, err)
 
 请严格遵守Apache 2.0协议并保留作品声明，去除版权信息请务必[获取授权](https://plugin.gin-vue-admin.com/license)  
 未授权去除版权信息将依法追究法律责任
+
+
+> Automated agentic update: 2026-03-12T17:08:28.719Z
